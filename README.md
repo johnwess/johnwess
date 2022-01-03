@@ -1,8 +1,8 @@
 # Hello y'all!
 ## I am currently learning frontend coding.
 #### My current projects include personal and corporate websites. 
-#### Eventually I would like to create an online database/community for people who love Murder Ballads
-
+#### Eventually I would like to create an online database/community for people who love Murder Ballads.
+##### I am also really into photography, collecting vinyl records and playing Dungeons & Dragons. 
 
 <!--
 **johnwess/johnwess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
