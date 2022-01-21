@@ -1,7 +1,7 @@
 # Hello y'all!
-## I am currently learning frontend coding.
-#### My current projects include personal and corporate websites. 
-#### Eventually I would like to create an online database/community for people who love Murder Ballads.
+## I am currently learning frontend development.
+#### HTML, CSS, Sass 
+#### 
 ##### I am also really into photography, collecting vinyl records and playing Dungeons & Dragons. 
 
 <!--
