@@ -1,8 +1,11 @@
-# Hello y'all!
-## I am currently learning frontend development.
-#### HTML, CSS, Sass 
-#### 
-##### I am also really into photography, collecting vinyl records and playing Dungeons & Dragons. 
+# Welcome!
+Hi, my name is John.
+🌱 I am taking courses online at Codecademy and I’m currently learning Front End Development, and Python.
+
+⚡ Fun fact: Virginia O'possums are North America's only marsupial! (The picture below is our current non-releasable rescue, Hazel.)
+
+![image](https://user-images.githubusercontent.com/29680087/184147194-c5e7bab3-befc-4521-bed4-cf950b2ace38.png)
+
 
 <!--
 **johnwess/johnwess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
