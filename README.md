@@ -1,6 +1,6 @@
 # Welcome!
 Hi, my name is John.
-🌱 I am taking courses online and I’m currently learning Front End Development, PostgreSQL, Python, and Photojournalism..
+🌱 I am taking courses online and I’m currently learning Front End Development, PostgreSQL, JavaScript, and taking lots of pictures.
 
 ⚡ Fun fact: Virginia O'possums are North America's only marsupial! (The picture below is our current non-releasable rescue, Hazel.)
 
