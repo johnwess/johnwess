@@ -26,7 +26,7 @@ I am also a capable chef, knowledgeable in all stages of kitchen management and 
 #### Technology and Personnel Manager
 + Technology and IT specialist
 + Support retail and rental processes
-+ Serve as Human Resources support
++ Administrative Assistant
 
 ### Unique Logic & Technology 2014-2019
 #### IT Support Manager
