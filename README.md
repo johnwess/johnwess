@@ -25,6 +25,7 @@ I am also a capable chef, knowledgeable in all stages of kitchen management and 
 ### General Equipment Rental 2019-Current
 #### Technology and Personnel Manager
 + Technology and IT specialist
++ Develop Applications and Manage IT Projects
 + Support retail and rental processes
 + Administrative Assistant
 
